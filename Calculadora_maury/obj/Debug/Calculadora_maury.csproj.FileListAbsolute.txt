@@ -1,0 +1,25 @@
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\Bin\Debug\ApplicationIcon.png
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\Bin\Debug\Background.png
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\Bin\Debug\Calculadora_maury.dll
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\Bin\Debug\Calculadora_maury.pdb
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\Bin\Debug\AppManifest.xaml
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\Bin\Debug\Calculadora_maury.xap
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\obj\Debug\App.g.i.cs
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\obj\Debug\MainPage.g.i.cs
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\obj\Debug\Calculadora_maury.g.resources
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\obj\Debug\Calculadora_maury.dll
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\obj\Debug\Calculadora_maury.pdb
+c:\users\laboratorio\documents\visual studio 2010\Projects\Calculadora_maury\Calculadora_maury\obj\Debug\XapCacheFile.xml
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\Bin\Debug\ApplicationIcon.png
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\Bin\Debug\Background.png
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\Bin\Debug\Calculadora_maury.dll
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\Bin\Debug\Calculadora_maury.pdb
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\Bin\Debug\AppManifest.xaml
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\Bin\Debug\Calculadora_maury.xap
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\obj\Debug\Calculadora_maury.g.resources
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\obj\Debug\Calculadora_maury.dll
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\obj\Debug\Calculadora_maury.pdb
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\obj\Debug\XapCacheFile.xml
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\obj\Debug\ResolveAssemblyReference.cache
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\obj\Debug\App.g.i.cs
+G:\Calculadora_maury\Calculadora_maury\Calculadora_maury\obj\Debug\MainPage.g.i.cs
